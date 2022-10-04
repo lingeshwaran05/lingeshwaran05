@@ -13,7 +13,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 - 🌱 I’m currently learning ... **Kubernetes**
 
 
- -🔭 I’m currently working on **Web Development**
+-🔭 I’m currently working on **Open-source**
 
 
 - 💞️ I’m looking to collaborate on ... **Various Opensource projects**
@@ -21,6 +21,11 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 - 📫 How to reach me ... **lingeshkrish08@gmail.com**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lingeshwaran05&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran05" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
