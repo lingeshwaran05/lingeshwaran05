@@ -1,4 +1,4 @@
-- Help me to update readme with features like profile visits , pr counts , streak etc
+
 
 
 <h1 align="center">Hello Coders!! 👋</h1>
@@ -13,7 +13,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 - 🌱 I’m currently learning ... **Kubernetes**
 
 
--🔭 I’m currently working on **Open-source**
+- 🔭 I’m currently working on **Open-source**
 
 
 - 💞️ I’m looking to collaborate on ... **Various Opensource projects**
@@ -35,15 +35,10 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/lingeshwaran05/blob/main/images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshwaran05&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/lingeshwaran05/blob/main/images/right.png">
   </a>
 </p>
 
-
-- [profile Views](https://gpvc.arturio.dev/lingeshwaran05)
-- [twitter](https://twitter.com/my_portfolio_)
 
 
 <!---
