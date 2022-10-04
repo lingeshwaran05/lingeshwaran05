@@ -45,7 +45,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 </h3>
 <p align="left">
   <a>
-    <img align="center" src="https://github.com/lingeshwaran05/github-readme-activity-graph"/>
+    <img align="center" src="[![lingeshwaran's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingeshkrish05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
   </a>
 </p>
 
