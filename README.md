@@ -41,13 +41,6 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   </a>
 </p>
 
-- <h3 align="left">**My activity graph:**
-</h3>
-<p align="left">
-  <a>
-    <img align="center" src="[![lingeshwaran's github activity graph](https://activity-graph.herokuapp.com/graph?username=lingeshkrish05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
-  </a>
-</p>
 
 
 <!---
