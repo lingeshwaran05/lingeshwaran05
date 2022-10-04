@@ -1,7 +1,7 @@
 - Help me to update readme with features like profile visits , pr counts , streak etc
 
 
-https://github.com/lingeshwaran05.png
+
 👋 Hi, I’m lingeshwaran 
 - 👀 I’m interested in ... Open source , DevOps
 - 🌱 I’m currently learning ... Kubernetes
