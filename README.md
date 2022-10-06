@@ -1,8 +1,6 @@
 
 
-## Hey <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, Hello Coders!!
-
-//<h1 align="center">Hello Coders!! 👋</h1>
+## <h1 align="center">Hello coders!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 <h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
