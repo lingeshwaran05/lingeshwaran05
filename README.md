@@ -41,7 +41,10 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   </a>
 </p>
 
-
+<a href="https://github.com/lingeshwaran05">
+  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=lingeshwaran05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!---
 lingeshwaran05/lingeshwaran05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
