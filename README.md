@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello Coders!! 👋</h1>
 
-
+##
 <h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
@@ -20,13 +20,13 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 
 - 📫 How to reach me ... **lingeshkrish08@gmail.com**
-
+##
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lingeshwaran05&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran05" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
+##
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/my_portfolio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lingeshwaran" height="30" width="40" /></a>
@@ -34,7 +34,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 <a href="https://leetcode.com/lingeshwaran470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lingeshwaran470" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lingeshkrish08/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lingeshwaran" height="30" width="40" /></a>
 </p>
-
+##
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshwaran05&theme=dark&hide_border=true"/>
@@ -46,6 +46,8 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&layout=compact&langs_count=7&theme=dark"/>
  </a>
  </p>
+ ##
+ ![snake gif](https://github.com/lingeshwaran05/lingeshwaran05/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!---
