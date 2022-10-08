@@ -42,10 +42,9 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   </a>
 </p>
 <p align="center">
-<a>
-  <img height="160em " src="https://github-readme-stats.vercel.app/api?username=lingeshwaran05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&layout=compact&langs_count=7&theme=dark"/>
- </a>
+ <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lingeshwaran05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
  </p>
  <a href="https://github.com/lingeshwaran05/github-readme-activity-graph"><img alt="lingeshwaran05's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lingeshwaran05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true" /></a>
  
