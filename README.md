@@ -26,6 +26,9 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+  <h2 align="left":inline-block>Tech-Stack:</h2>
+  <p align="center">
+    <img src="![image](https://user-images.githubusercontent.com/76167753/205299602-85551295-928f-43e7-8fe2-c94cf065bf16.png)" alt="">
 
 <h2 align="left":inline-block>Connect with me:</h2>
 <p align="left">
