@@ -29,7 +29,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 <h2 align="left":inline-block>Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/my_portfolio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lingeshwaran" height="30" width="40" /></a>
+<a href="https://twitter.com/lingeshtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lingeshwaran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lingeshwaran-k-6a189620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingeshwaran" height="30" width="40" /></a>
 <a href="https://leetcode.com/lingeshwaran470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lingeshwaran470" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lingeshkrish08/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lingeshwaran" height="30" width="40" /></a>
