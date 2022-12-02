@@ -60,7 +60,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  </p>
-<img alt="lingeshwaran05's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lingeshwaran05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true" />
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
