@@ -28,6 +28,31 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
   <h2 align="left":inline-block>Tech-Stack:</h2>
   <p align="center">
+lingeshwaran05-tech-stack
+    
+### Language :
+    
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+=======
     <img src="https://user-images.githubusercontent.com/76167753/205299602-85551295-928f-43e7-8fe2-c94cf065bf16.png" alt="" height="30" width="40">
     <img src="https://user-images.githubusercontent.com/76167753/205303281-e1896c77-6399-4f5a-bb63-239891427f33.png" alt="" height="30" width="40">
     <img src="https://user-images.githubusercontent.com/76167753/205303438-1088db56-0974-4aa4-9af0-b0e435bf1856.png" alt="" height="30" width="40">
@@ -37,6 +62,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
     <img src="https://user-images.githubusercontent.com/76167753/205305556-73ead348-116d-4e42-9f1f-1b043c7dc6b0.png" alt="" height="30" width="40">
     <img src="https://user-images.githubusercontent.com/76167753/205305649-18016b23-c784-4aeb-9f31-56684c0de40d.png" alt="" height="30" width="40">
     <img src="https://user-images.githubusercontent.com/76167753/205305777-3c18ed62-8ed3-420f-98ef-aba5e2252ca0.png" alt="" height="30" width="40">
+
 
     
 
@@ -60,8 +86,6 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
   <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710" alt="" />
- 
 </div>
 
 <!---
