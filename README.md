@@ -28,7 +28,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
   <h2 align="left":inline-block>Tech-Stack:</h2>
   <p align="center">
-lingeshwaran05-tech-stack
+
     
 ### Language :
     
