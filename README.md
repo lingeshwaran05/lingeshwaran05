@@ -52,16 +52,7 @@ lingeshwaran05-tech-stack
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-=======
-    <img src="https://user-images.githubusercontent.com/76167753/205299602-85551295-928f-43e7-8fe2-c94cf065bf16.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205303281-e1896c77-6399-4f5a-bb63-239891427f33.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205303438-1088db56-0974-4aa4-9af0-b0e435bf1856.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205303550-b7dd5048-7dda-4f66-ba84-b305dd6b4614.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205305057-36be1902-3947-4849-9026-ad7d852d1a9d.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205305351-88d0f884-2883-4265-a516-f4bd0f3bb3dc.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205305556-73ead348-116d-4e42-9f1f-1b043c7dc6b0.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205305649-18016b23-c784-4aeb-9f31-56684c0de40d.png" alt="" height="30" width="40">
-    <img src="https://user-images.githubusercontent.com/76167753/205305777-3c18ed62-8ed3-420f-98ef-aba5e2252ca0.png" alt="" height="30" width="40">
+
 
 
     
