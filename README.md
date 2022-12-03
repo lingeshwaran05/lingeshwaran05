@@ -28,7 +28,9 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
   <h2 align="left":inline-block>Tech-Stack:</h2>
   <p align="center">
+    
 ### Language :
+    
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
