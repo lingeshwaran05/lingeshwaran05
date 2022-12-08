@@ -9,7 +9,8 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-  [https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lingeshwaran05)
+##
+  
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lingeshwaran05)
 
 
@@ -85,7 +86,10 @@
 
  </p>
 </div>
+##Profile Trophies:
+
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/lingeshwaran05)
+
 <!---
 lingeshwaran05/lingeshwaran05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
