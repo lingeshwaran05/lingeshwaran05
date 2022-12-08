@@ -3,6 +3,10 @@
 ## <h1 align="center">Hello coders!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 <h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lingeshwaran05)
+
+
 I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
 - 👀 I’m interested in ... **Open source , DevOps**
@@ -78,6 +82,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
  </p>
 </div>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)]
 
 <!---
 lingeshwaran05/lingeshwaran05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
