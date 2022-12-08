@@ -1,21 +1,14 @@
 
 
 ## <h1 align="center">Hello coders!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
-
-<h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.</h3>
-
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lingeshwaran05&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran05" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)" alt="opensource">
 </p>
-
-  
-  
-
-
-
-<h3>I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+<h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
+I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
 - 👀 I’m interested in ... **Open source , DevOps**
 
@@ -34,7 +27,7 @@
 
 
 
-  <h2 align="left":inline-block>Tech-Stack:</h2>
+  <h3 align="left">Tech-Stack:</h3>
   <p align="center">
 
     
@@ -86,7 +79,8 @@
 
  </p>
 </div>
-Profile Trophies:
+
+### Profile Trophies:
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/lingeshwaran05)
 
