@@ -82,7 +82,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
  </p>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=lingeshwaran05)](https://github.com/ryo-ma/lingeshwaran05)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)(https://github.com/lingeshwaran05)
 <!---
 lingeshwaran05/lingeshwaran05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
