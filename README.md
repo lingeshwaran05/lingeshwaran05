@@ -9,6 +9,7 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+  [https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lingeshwaran05)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/lingeshwaran05)
 
 
