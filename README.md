@@ -13,7 +13,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 - 👀 I’m interested in ... **Open source , DevOps**
 
 
-- 🌱 I’m currently learning ... **Kubernetes**
+- 🌱 I’m currently learning ... **Docker**
 
 
 - 🔭 I’m currently working on **Open-source**
