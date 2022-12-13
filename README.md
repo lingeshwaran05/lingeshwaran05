@@ -53,7 +53,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-
+<a href="#"><img alt="Vercel" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" height="40" width="70"></a>
 
 
     
