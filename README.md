@@ -80,6 +80,8 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
  </p>
 </div>
 
+[![An image of @lingeshkrish08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lingeshkrish08)](https://holopin.io/@lingeshkrish08)
+
 ### Profile Trophies:
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/lingeshwaran05)
