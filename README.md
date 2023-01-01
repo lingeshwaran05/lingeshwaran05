@@ -10,6 +10,8 @@
 <h3 align="center">I'm Lingeshwaran🙋‍♂️, a pre-final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300px" align="right">
+  
 - 👀 I’m interested in ... **Open source , DevOps**
 
 
